@@ -1,0 +1,73 @@
+C:\Users\Ivan\AppData\Local\Temporary Projects\WindowsKiller\bin\Debug\WindowsKiller.exe
+C:\Users\Ivan\AppData\Local\Temporary Projects\WindowsKiller\bin\Debug\WindowsKiller.pdb
+C:\Users\Ivan\AppData\Local\Temporary Projects\WindowsKiller\bin\Debug\WindowsKiller.xml
+C:\Users\Ivan\AppData\Local\Temporary Projects\WindowsKiller\obj\x86\Debug\WindowsKiller.frm1.resources
+C:\Users\Ivan\AppData\Local\Temporary Projects\WindowsKiller\obj\x86\Debug\WindowsKiller.Resources.resources
+C:\Users\Ivan\AppData\Local\Temporary Projects\WindowsKiller\obj\x86\Debug\WindowsKiller.vbproj.GenerateResource.Cache
+C:\Users\Ivan\AppData\Local\Temporary Projects\WindowsKiller\obj\x86\Debug\WindowsKiller.exe
+C:\Users\Ivan\AppData\Local\Temporary Projects\WindowsKiller\obj\x86\Debug\WindowsKiller.xml
+C:\Users\Ivan\AppData\Local\Temporary Projects\WindowsKiller\obj\x86\Debug\WindowsKiller.pdb
+D:\Програми\Vs programi\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.exe
+D:\Програми\Vs programi\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.xml
+D:\Програми\Vs programi\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.pdb
+D:\Програми\Vs programi\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.exe
+D:\Програми\Vs programi\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.pdb
+D:\Програми\Vs programi\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.xml
+D:\Програми\Vs programi\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.frm1.resources
+D:\Програми\Vs programi\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.Resources.resources
+D:\Програми\Vs programi\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.vbproj.GenerateResource.Cache
+F:\ivan\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.exe
+F:\ivan\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.xml
+F:\ivan\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.pdb
+F:\ivan\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.exe
+F:\ivan\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.pdb
+F:\ivan\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.xml
+F:\ivan\WindowsKiller\WindowsKiller\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ivan\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.frm1.resources
+F:\ivan\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.frm2.resources
+F:\ivan\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.Resources.resources
+F:\ivan\WindowsKiller\WindowsKiller\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ivan\WindowsKiller\WindowsKiller\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.exe
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.xml
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.pdb
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.exe
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.pdb
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.xml
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.frm1.resources
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.Resources.resources
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.vbproj.GenerateResource.Cache
+E:\Visual Basic\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.vbprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.exe
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.xml
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.pdb
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.exe
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.pdb
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.xml
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.vbprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.frm1.resources
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.Resources.resources
+C:\Users\Ivan\Desktop\wk\WindowsKiller\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.vbproj.GenerateResource.Cache
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.exe
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.xml
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.pdb
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.exe
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.pdb
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.xml
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.vbprojResolveAssemblyReference.cache
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.frm1.resources
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.Resources.resources
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.vbproj.GenerateResource.Cache
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.frm2.resources
+E:\Programing\Visual Basic\wk\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.exe.config
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.exe.config
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.exe
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.xml
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.pdb
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.exe
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.pdb
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\bin\Debug\WindowsKiller.xml
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.vbprojResolveAssemblyReference.cache
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.frm1.resources
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.Resources.resources
+D:\Programmer\VB\wk\WindowsKiller\WindowsKiller\obj\x86\Debug\WindowsKiller.vbproj.GenerateResource.Cache
